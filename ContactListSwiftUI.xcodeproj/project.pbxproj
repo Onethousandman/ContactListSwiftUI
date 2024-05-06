@@ -67,9 +67,8 @@
 			children = (
 				56F006032BE7CF5100263A71 /* Models */,
 				56F006002BE7CF1500263A71 /* Services */,
-				56F005F22BE7CE0800263A71 /* ContactListSwiftUIApp.swift */,
-				56F006062BE7D13B00263A71 /* ContentView */,
 				56F005F62BE7CE0900263A71 /* Assets.xcassets */,
+				56F005F22BE7CE0800263A71 /* ContactListSwiftUIApp.swift */,
 				56F006092BE7D3D700263A71 /* Views */,
 				56F005F82BE7CE0900263A71 /* Preview Content */,
 			);
@@ -100,14 +99,6 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		56F006062BE7D13B00263A71 /* ContentView */ = {
-			isa = PBXGroup;
-			children = (
-				56F005F42BE7CE0800263A71 /* ContentView.swift */,
-			);
-			path = ContentView;
-			sourceTree = "<group>";
-		};
 		56F006092BE7D3D700263A71 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +107,7 @@
 				56F006152BE7E1E700263A71 /* ContactDetailsView.swift */,
 				56F006172BE7EE7C00263A71 /* DetailsView.swift */,
 				56F0060F2BE7D4E300263A71 /* SectionView.swift */,
+				56F005F42BE7CE0800263A71 /* ContentView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
